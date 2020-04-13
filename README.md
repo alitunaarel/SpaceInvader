@@ -1,6 +1,6 @@
 # Space-Invaders
 
-###Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. We are going to build a 15 x 15 grid square with 20 invaders to shoot. 
+### Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. We are going to build a 15 x 15 grid square with 20 invaders to shoot. 
 
 In this repo, I will be putting extra focus on for loops and classLists in JavaScript. If you want to learn how to use these loops and classLists effectively, please have a look at my code.
 
